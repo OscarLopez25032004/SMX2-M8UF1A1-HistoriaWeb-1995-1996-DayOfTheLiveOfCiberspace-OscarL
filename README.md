@@ -8,7 +8,7 @@
 - [ ] Las acciones tratan del modo en el que las personas financian o estan financiando nuevos proyectos enfocados al modo de trabajo y lives de Internet. 
 **_¿Qué dia se celebra?_**  
 - [ ] El 1 de Octubre.  
-**_Estos son algunos de las personas que participaron_**  
+**_Estos son algunos de las personas que participaron:_**  
 ![Participante1](https://github.com/OscarLopez25032004/SMX2-M8UF1A1-HistoriaWeb-1995-1996-DayOfTheLiveOfCiberspace-OscarL/blob/main/ttt04.jpg "Participante1")
 ![Participante2](https://github.com/OscarLopez25032004/SMX2-M8UF1A1-HistoriaWeb-1995-1996-DayOfTheLiveOfCiberspace-OscarL/blob/main/ttt09.jpg "Participante2")
 ![Participante3](https://github.com/OscarLopez25032004/SMX2-M8UF1A1-HistoriaWeb-1995-1996-DayOfTheLiveOfCiberspace-OscarL/blob/main/ttt10.jpg "Participante3")  
