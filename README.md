@@ -3,13 +3,11 @@
 -------------------------------------------------  
 
 **_¿Qué es Day of the Live of Ciberspace?_**
-- [ ] Se trata de un evento comunitario en el que se solicitan sumisiones a las personas y se publican en una página web, este evento se celebra en su décimo aniversario.
-**Este es el logo de PHP:**  
-![PHP-Logo](https://github.com/OscarLopez25032004/SMX2-M8UF1A1-HistoriaWeb-1995-1996-PHP-OscarL/blob/main/PHP-logo.svg.png "PHP-Logo")  
-**_¿Para que se creo PHP?_**  
-- [ ] **PHP** se creó para el rastreo de las visitas al currículum online personal.   
-**_¿Cuando se creó PHP?_**  
-- [ ] **PHP** se empezó a desarrollar en 1994, peró apareció públicamente en 1995.   
+- [ ] Se trata de un **evento comunitario** en el que se solicitan acciones a las personas y se publican en una página web, este evento se celebra en su décimo aniversario. 
+**_¿De que tratan las acciones de las personas?_**  
+- [ ] Las acciones tratan del modo en el que las personas financian o estan financiando nuevos proyectos enfocados al modo de trabajo y lives de Internet. 
+**_¿Qué dia se celebra?_**  
+- [ ] El 1 de Octubre.  
 **_¿Quien desarrolló PHP?_**  
 - [ ] Lo desarrolló el programador **Rasmus Lerdorf**.   
 ![Rasmus Lerdorf](https://github.com/OscarLopez25032004/SMX2-M8UF1A1-HistoriaWeb-1995-1996-PHP-OscarL/blob/main/2326296360_426b2d3726.jpg "Rasmus Lerdorf")
