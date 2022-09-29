@@ -1,9 +1,9 @@
-<center> <h1>Day of the Live of Ciberspace</h1> </center>
+<center> <h1>Day of the Live of Cyberspace</h1> </center>
 
 ## `Historia de Day of the Live of Ciberspace`
 -------------------------------------------------  
 
-**_¿Qué es Day of the Live of Ciberspace?_**
+**_¿Qué es Day of the Live of Cyberspace?_**
 - [ ] Se trata de un **evento comunitario** en el que se solicitan acciones a las personas y se publican en una página web, este evento se celebra en su décimo aniversario.  
 **_¿De que tratan las acciones de las personas?_**  
 - [ ] Las acciones tratan del modo en el que las personas financian o estan financiando nuevos proyectos enfocados al modo de trabajo y lives de Internet.  
