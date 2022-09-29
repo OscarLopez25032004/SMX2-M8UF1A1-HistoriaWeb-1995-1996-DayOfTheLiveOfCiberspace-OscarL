@@ -4,9 +4,9 @@
 -------------------------------------------------  
 
 **_¿Qué es Day of the Live of Cyberspace?_**
-- [ ] Se trata de un **evento comunitario** en el que se solicitan acciones a las personas y se publican en una página web, este evento se celebra en su décimo aniversario.  
-**_¿De que tratan las acciones de las personas?_**  
-- [ ] Las acciones tratan del modo en el que las personas financian o estan financiando nuevos proyectos enfocados al modo de trabajo y lives de Internet.  
+- [ ] Se trata de un **evento comunitario** en el que se solicitan acciones a las personas y se publican en la página web de MIT Media's Lab, este evento se celebra en su décimo aniversario.  
+**_¿De que tratan las acciones de las personas y que relación tienen con Media Lab?_**  
+- [ ] Tratan de que Media Lab está recopilando las imágenes y el texto que se verán en una instalación especial en el MIT. En última instancia, este collage digital se ensamblará en un libro que servirá como registro visual e histórico de la vida en la frontera electrónica.  
 **_¿Qué dia se celebra?_**  
 - [ ] El 1 de Octubre.  
 **_Estos son algunos de las personas que participaron en el evento del 9 al 10 de Octubre de 1995:_**  
