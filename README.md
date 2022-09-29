@@ -2,8 +2,8 @@
 
 -------------------------------------------------  
 
-**_¿Qué es PHP?_**
-- [ ] Actualmente, **PHP** és un lenguaje de programación enfocado al desarollo web.   
+**_¿Qué es Day of the Live of Ciberspace?_**
+- [ ] Se trata de un evento comunitario en el que se solicitan sumisiones a las personas y se publican en una página web, este evento se celebra en su décimo aniversario.
 **Este es el logo de PHP:**  
 ![PHP-Logo](https://github.com/OscarLopez25032004/SMX2-M8UF1A1-HistoriaWeb-1995-1996-PHP-OscarL/blob/main/PHP-logo.svg.png "PHP-Logo")  
 **_¿Para que se creo PHP?_**  
